@@ -1,5 +1,5 @@
-matlab version:  2014
-platform windows 7
+matlab version:  2014b
+platform linux
 
 files submitted:
 
@@ -25,5 +25,5 @@ quantizeImage:
 quantize an Image to a given range , in max given iterations
 
 the first test image has nice borders and not alot of colors witch
- helped to examin the equalization and the quantizeation
+helped to examin the equalization and the quantizeation. 
 while the second one has some intense colors witch helped to view the color changes 

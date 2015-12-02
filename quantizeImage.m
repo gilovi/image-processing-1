@@ -95,7 +95,7 @@ if is_rgb
     YIQ (:,:,1) = imQuant; 
     imQuant = transformYIQ2RGB(YIQ);
 end
-
+error = error';
 plot (error)
     
 end
